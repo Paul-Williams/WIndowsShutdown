@@ -1,4 +1,4 @@
-# WindowsShutdown
+# Windows Shutdown
 
 * Run it to shut down on a timer
 * Run it holding CTRL to shut down immediately
